@@ -2,18 +2,21 @@
 
 <h1>Fernando Vergel</h1>
 
-> ***Design background meets UX enthusiasm***
+> ***Design problem solver crafting intuitive products by transforming ideas into engaging interactions***
 
-<h4>Product Designer | UX designer | Experience Design | Open to Remote</h4>
+<h4>Product Designer | User Experience Design | Open to Remote</h4>
 
-**[Download Resume](https://drive.google.com/file/d/1H-ADzLiYf-_N1u2GAZkVF3cTTdsOu9he/view?usp=sharing)**
+**[Download Resume](https://drive.google.com/file/d/1mi6txZfGir86IaFbk5Yy78n0ste9FL-n/view?usp=sharing)**
 
-💡 Hello, I'm Fer! I've been creating user-friendly designs as a Graphic Designer first, then moved into Web Design, now as a User Experience Designer. But what I do best is understanding people's needs and turning them into great experiences.
+💡 Hello, I'm Fer! I've been creating user-friendly designs starting as a Graphic Designer, then moved into Web Design, now as a User Experience Designer. My true passion lies in understand users and create great experiences for them.
 
+In 2013, I transitioned to HVAC, where I honed my skills about custom solutions and strong client communication. I also managed both on-site and remote teams. By 2022, I circled back to design, focusing in UX, working together with cross-functional product teams.
 
-In 2013, I transitioned to HVAC, collaborating with great people to deliver client-specific solutions, ensuring good communication as I managed on-site and remote teams. By 2022, I circled back to design, specializing in UX, and collaborating in agile frameworks with multidisciplinary teams.
+I’ve also mentor junior design and development teams, helping them improve communication and teamwork. I'm a lifelong learner, love sharing knowledge and connect with people. I'm dedicated and mature, a natural born team player with a passion for design.
 
-I've realized it's more than designing interfaces, it's about empathizing with people.
+Currently, I'm a Product UX Designer at an interpretation and language services company. Eager to take on challenging projects that allow me to develop innovative solutions that enhance people's lives.
+
+My toolbox includes Figma, Design Thinking, Prototyping, and I speak Scrum Poker fluently (just kidding, but I'm good at planning!) And, yes, I know my way around Agile! I've realized it's more than designing interfaces, it's about empathizing with people.
 
 <h2>Languages:</h2>
 
@@ -40,9 +43,14 @@ English (C1 Certificate)
 
 <h2>💪🏻 Skills</h2>
 
+<h4>❤️ Soft</h4>
+
+Empathy, Leadership, Collaboration, Team spirit, Adaptability, Problem Solving, Creativity, Teamwork.
+
+
 <h4>👩🏻‍💻 Product Management</h4>
 
-Sprint Backlog, Scrum, MVP, OKR, KPIs, Value Proposition Canvas, Milestones, User Stories, Roadmaps, Impact Mapping, Agile Frameworks, Prompt Engineering.
+MVPs, OKRs, KPIs, Milestones, Value Proposition Canvas, User Stories, Roadmaps, Impact Mapping, Agile Frameworks, Prompt Engineering.
 
 
 <h4>🎨 UI/UX Design</h4>
@@ -52,7 +60,7 @@ User Personas, Wireframing, Architecture Information, Usability Testing, Design 
 
 <h4>⚙️ SOFTWARE</h4>
 
-Figma, Adobe XD, Optimal Workshop, Notion, Framer, WordPress, Marvelapp, Canva, Jira, Trello, Miro, Mural, OBS Studio, KDEnLive, Office, Photoshop, Slack.
+Figma, Adobe XD, Optimal Workshop, Notion, Framer, WordPress, MarvelApp, Canva, Jira, Trello, Miro, Mural, OBS Studio, KDEnLive, Office, Photoshop, Slack.
 
 
 ---
