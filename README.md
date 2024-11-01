@@ -4,7 +4,7 @@
 
 > ***Designer currently focused on User Experience and Product Strategy. My work centers on designing data-informed solutions that effectively balance user needs with business goals.***
 
-<h4>Product Designer | User Experience Design | Open to Remote</h4>
+<h4>Product Design | User Experience | Open to Remote</h4>
 
 **[Download Resume](https://drive.google.com/file/d/1mi6txZfGir86IaFbk5Yy78n0ste9FL-n/view?usp=sharing)**
 
