@@ -2,7 +2,7 @@
 
 <h1>Fernando Vergel</h1>
 
-> ***I've been creating user-friendly designs as a Graphic Designer first, then moved into Web Design, now as a User Experience Designer. But what I do best is understanding people's needs and turning them into great experiences.***
+> ***Designer currently focused on User Experience and Product Strategy. My work centers on designing data-informed solutions that effectively balance user needs with business goals.***
 
 <h4>Product Designer | User Experience Design | Open to Remote</h4>
 
