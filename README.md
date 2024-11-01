@@ -2,7 +2,7 @@
 
 <h1>Fernando Vergel</h1>
 
-> ***Design problem solver crafting intuitive products by transforming ideas into engaging interactions***
+> ***I've been creating user-friendly designs as a Graphic Designer first, then moved into Web Design, now as a User Experience Designer. But what I do best is understanding people's needs and turning them into great experiences.***
 
 <h4>Product Designer | User Experience Design | Open to Remote</h4>
 
