@@ -69,7 +69,7 @@ Figma, Adobe XD, Optimal Workshop, Notion, Framer, WordPress, MarvelApp, Canva, 
 
 <h4>Product Design</h4>
 
-[Coderhouse](https://www.coderhouse.com.pe/) | Jul 2023. No expiration date
+[Coderhouse](https://www.coderhouse.com.pe/) | July 2023 · No expiration date
 
 Credential ID 64d5434de26b7d0019281f73
 
@@ -79,7 +79,7 @@ Credential ID 64d5434de26b7d0019281f73
 
 <h4>Google UX Design</h4>
 
-[Coursera](https://www.coursera.org/) | Nov 2023. No expiration date
+[Coursera](https://www.coursera.org/) | November 2023 · No expiration date
 
 Credential ID QYU9NDB2M8ED
 
@@ -97,7 +97,7 @@ Credential ID 2c8d4221864249339a7d9b6257244aa5
 ---
 <h4>Scrum Fundamentals</h4>
 
-[SCRUMstudy](https://www.scrumstudy.com/) | December 2023
+[SCRUMstudy](https://www.scrumstudy.com/) | December 2023 · No expiration date
 
 Credential ID 1010605
 
