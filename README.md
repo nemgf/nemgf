@@ -99,7 +99,7 @@ Credential ID 2c8d4221864249339a7d9b6257244aa5
 
 [SCRUMstudy](https://www.scrumstudy.com/) | October 2024 · Expires: November 2026
 
-Credential ID 2c8d4221864249339a7d9b6257244aa5
+Credential ID 1010605
 
 🔗 **[See credential here](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-FernandoVergel-1010605.pdf)**
 
