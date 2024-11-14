@@ -69,21 +69,39 @@ Figma, Adobe XD, Optimal Workshop, Notion, Framer, WordPress, MarvelApp, Canva, 
 
 <h4>Product Design</h4>
 
-[Coderhouse](https://www.coderhouse.com.pe/certificados/64d5434de26b7d0019281f73?lang=en) | Jul 2023. No expiration date
+[Coderhouse](https://www.coderhouse.com.pe/) | Jul 2023. No expiration date
 
 Credential ID 64d5434de26b7d0019281f73
 
-🔗 [](https://www.interaction-design.org/andrea-monsalve/certificate/course/b3d69cd0-a18b-42b4-9707-f53cc1826b5d)[See credential here](https://www.coderhouse.com.pe/certificados/64d5434de26b7d0019281f73?lang=en)
+🔗 **[See credential here](https://www.coderhouse.com.pe/certificados/64d5434de26b7d0019281f73?lang=en)
 
 ---
 
 <h4>Google UX Design</h4>
 
-[Coursera](https://www.coursera.org/account/accomplishments/verify/UZ33CT3P7NU9) | Nov 2023. No expiration date
+[Coursera](https://www.coursera.org/) | Nov 2023. No expiration date
 
 Credential ID QYU9NDB2M8ED
 
-🔗 [](https://www.interaction-design.org/andrea-monsalve/certificate/course/b3d69cd0-a18b-42b4-9707-f53cc1826b5d)**[See credential here](https://www.coursera.org/account/accomplishments/professional-cert/QYU9NDB2M8ED)**
+🔗 **[See credential here](https://www.coursera.org/account/accomplishments/professional-cert/QYU9NDB2M8ED)**
+
+---
+<h4>Growth-Driven Design</h4>
+
+[HubSpot Academy](https://academy.hubspot.com/) | October 2024 · Expires: November 2026
+
+Credential ID 2c8d4221864249339a7d9b6257244aa5
+
+🔗 **[See credential here](https://app.hubspot.com/academy/achievements/2jp5w61d/en/1/fernando-vergel/growth-driven-design)**
+
+---
+<h4>Scrum Fundamentals</h4>
+
+[SCRUMstudy](https://www.scrumstudy.com/) | October 2024 · Expires: November 2026
+
+Credential ID 2c8d4221864249339a7d9b6257244aa5
+
+🔗 **[See credential here](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-FernandoVergel-1010605.pdf)**
 
 ---
 
