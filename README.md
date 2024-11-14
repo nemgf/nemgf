@@ -18,6 +18,8 @@ Currently, I'm a Product UX Designer at an interpretation and language services 
 
 My toolbox includes Figma, Design Thinking, Prototyping, and I speak Scrum Poker fluently (just kidding, but I'm good at planning!) And, yes, I know my way around Agile! I've realized it's more than designing interfaces, it's about empathizing with people.
 
+**[Lee esta página en español](https://github-com.translate.goog/nemgf?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)**
+
 <h2>Languages:</h2>
 
 Spanish (Native)
@@ -69,17 +71,17 @@ Figma, Adobe XD, Optimal Workshop, Notion, Framer, WordPress, MarvelApp, Canva, 
 
 <h4>Product Design</h4>
 
-[Coderhouse](https://www.coderhouse.com.pe/) | July 2023 · No expiration date
+**[Coderhouse](https://www.coderhouse.com.pe/)** | July 2023 · No expiration date
 
 Credential ID 64d5434de26b7d0019281f73
 
-🔗 [See credential here](https://www.coderhouse.com.pe/certificados/64d5434de26b7d0019281f73?lang=en)
+🔗 **[See credential here](https://www.coderhouse.com.pe/certificados/64d5434de26b7d0019281f73?lang=en)**
 
 ---
 
 <h4>Google UX Design</h4>
 
-[Coursera](https://www.coursera.org/) | November 2023 · No expiration date
+**[Coursera](https://www.coursera.org/)** | November 2023 · No expiration date
 
 Credential ID QYU9NDB2M8ED
 
@@ -88,7 +90,7 @@ Credential ID QYU9NDB2M8ED
 ---
 <h4>Growth-Driven Design</h4>
 
-[HubSpot Academy](https://academy.hubspot.com/) | October 2024 · Expires: November 2026
+**[HubSpot Academy](https://academy.hubspot.com/)** | October 2024 · Expires: November 2026
 
 Credential ID 2c8d4221864249339a7d9b6257244aa5
 
@@ -97,7 +99,7 @@ Credential ID 2c8d4221864249339a7d9b6257244aa5
 ---
 <h4>Scrum Fundamentals</h4>
 
-[SCRUMstudy](https://www.scrumstudy.com/) | December 2023 · No expiration date
+**[SCRUMstudy](https://www.scrumstudy.com/)** | December 2023 · No expiration date
 
 Credential ID 1010605
 
