@@ -75,7 +75,7 @@ Figma, Adobe XD, Optimal Workshop, Notion, Framer, WordPress, MarvelApp, Canva, 
 
 Credential ID 64d5434de26b7d0019281f73
 
-🔗 **[See credential here](https://www.coderhouse.com.pe/certificados/64d5434de26b7d0019281f73?lang=en)**
+🔗 **[See credential here](https://www.coderhouse.com/pe/certificados/64d5434de26b7d0019281f73?lang=en)**
 
 ---
 
