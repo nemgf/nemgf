@@ -97,7 +97,7 @@ Credential ID 2c8d4221864249339a7d9b6257244aa5
 ---
 <h4>Scrum Fundamentals</h4>
 
-[SCRUMstudy](https://www.scrumstudy.com/) | October 2024 · Expires: November 2026
+[SCRUMstudy](https://www.scrumstudy.com/) | December 2023
 
 Credential ID 1010605
 
