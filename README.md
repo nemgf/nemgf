@@ -6,7 +6,7 @@
 
 <h4>Product Design | User Experience | Open to Remote</h4>
 
-**[Download Resume](https://drive.google.com/file/d/1dvxlI9bCDHHkhIxBy1gd37MzyiTqp04-/view?usp=sharing)**
+**[Download Resume](https://drive.google.com/file/d/1cBxujJSwJpIqYj8OR-td-EBu1cp--hZE/view?usp=sharing)**
 
 💡 Hello, I'm Fer! I've been creating user-friendly designs starting as a Graphic Designer, then moved into Web Design, now as a User Experience Designer. My true passion lies in understand users and create great experiences for them.
 
