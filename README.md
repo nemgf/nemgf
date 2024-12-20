@@ -1,4 +1,4 @@
-![Image](https://www.nemgf.com/wp-content/uploads/2024/03/301059274_10158554540452397_8757439669546729388_n-1.png)
+![Image](https://www.nemgf.com/wp-content/uploads/2024/12/header.webp)
 
 <h1>Fernando Vergel</h1>
 
