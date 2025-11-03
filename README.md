@@ -16,11 +16,12 @@ Passionate about emerging tech, I leverage tools like Gemini, Lovable, and Perpl
 I’ve also mentor junior design and development teams, helping them improve communication and teamwork. I'm a lifelong learner, love sharing knowledge and connect with people. I'm dedicated and mature, a natural born team player with a keen eye for design.
 
 **Key Strengths:**
-• Designed accessible, user-centered products rooted in research, strategy, and iterative testing.
-• Applied AI workflows to prototype, code, and validate MVPs, reducing time-to-market and increasing alignment.
-• Conducted competitive research using AI and Growth methodologies to inform early product direction.
-• Collaborated across disciplines using Agile, with adaptability to evolving business needs.
-• Delivered solutions for tech, education, and SaaS products with a focus on scalability and growth.
+
+- Designed accessible, user-centered products rooted in research, strategy, and iterative testing.
+- Applied AI workflows to prototype, code, and validate MVPs, reducing time-to-market and increasing alignment.
+- Conducted competitive research using AI and Growth methodologies to inform early product direction.
+- Collaborated across disciplines using Agile, with adaptability to evolving business needs.
+- Delivered solutions for tech, education, and SaaS products with a focus on scalability and growth.
 
 I didn't just 'make screens.' I influenced direction.
 
