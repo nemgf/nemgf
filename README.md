@@ -2,7 +2,7 @@
 
 <h1>Fernando Vergel</h1>
 
-> ***Designer currently focused on User Experience and Product Strategy. My work centers on designing data-informed solutions that effectively balance user needs with business goals.***
+> ***Product UX Designer blending strategy, AI-enhanced workflows, and research to deliver smarter platforms — fast.***
 
 <h4>Product Design | User Experience | Open to Remote</h4>
 
