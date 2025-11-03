@@ -8,15 +8,21 @@
 
 **[Download Resume](https://www.nemgf.com/resume/)**
 
-💡 Hello, I'm Fer! I've been creating user-friendly designs starting as a Graphic Designer, then moved into Web Design, now as a User Experience Designer. My true passion lies in understand users and create great experiences for them.
+💡 Hello, I'm Fer! I began as a Graphic Designer, learned to build in Web Design, and now craft user experiences as a Product Designer. I decode what people truly need and build interfaces that make their day easier.
 
-In 2013, I transitioned to HVAC, where I honed my skills about custom solutions and strong client communication. I also managed both on-site and remote teams. By 2022, I circled back to design, focusing in UX, working together with cross-functional product teams.
+My approach blends design intuition with data, delivering experiences that perform as well as they look. I integrate empathy, agile collaboration, and continuous iteration to drive growth and usability.
+Passionate about emerging tech, I leverage tools like Gemini, Lovable, and Perplexity to enhance speed, decision-making, and product impact.
 
 I’ve also mentor junior design and development teams, helping them improve communication and teamwork. I'm a lifelong learner, love sharing knowledge and connect with people. I'm dedicated and mature, a natural born team player with a passion for design.
 
-Currently, I'm a Product UX Designer at an interpretation and language services company. Eager to take on challenging projects that allow me to develop innovative solutions that enhance people's lives.
+**Key Strengths:**
+• Designed accessible, user-centered products rooted in research, strategy, and iterative testing.
+• Applied AI workflows to prototype, code, and validate MVPs, reducing time-to-market and increasing alignment.
+• Conducted competitive research using AI and Growth methodologies to inform early product direction.
+• Collaborated across disciplines using Agile, with adaptability to evolving business needs.
+• Delivered solutions for tech, education, and SaaS products with a focus on scalability and growth.
 
-My toolbox includes Figma, Design Thinking, Prototyping, and I speak Scrum Poker fluently (just kidding, but I'm good at planning!) And, yes, I know my way around Agile! I've realized it's more than designing interfaces, it's about empathizing with people.
+I didn't just 'make screens.' I influenced direction.
 
 **[Lee esta página en español](https://github-com.translate.goog/nemgf?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)**
 
