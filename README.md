@@ -13,7 +13,7 @@
 My approach blends design intuition with data, delivering experiences that perform as well as they look. I integrate empathy, agile collaboration, and continuous iteration to drive growth and usability.
 Passionate about emerging tech, I leverage tools like Gemini, Lovable, and Perplexity to enhance speed, decision-making, and product impact.
 
-I’ve also mentor junior design and development teams, helping them improve communication and teamwork. I'm a lifelong learner, love sharing knowledge and connect with people. I'm dedicated and mature, a natural born team player with a passion for design.
+I’ve also mentor junior design and development teams, helping them improve communication and teamwork. I'm a lifelong learner, love sharing knowledge and connect with people. I'm dedicated and mature, a natural born team player with a keen eye for design.
 
 **Key Strengths:**
 • Designed accessible, user-centered products rooted in research, strategy, and iterative testing.
