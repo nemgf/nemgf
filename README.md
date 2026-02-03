@@ -4,6 +4,8 @@
 
 > ***Product UX Designer blending strategy, AI-enhanced workflows, and research to deliver smarter platforms — fast.***
 
+**[Lee esta página en español](https://github-com.translate.goog/nemgf?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)**
+
 <h4>Product Design | User Experience | Open to Remote</h4>
 
 **[Download Resume](https://www.nemgf.com/resume/)**
@@ -24,8 +26,6 @@ I’ve also mentor junior design and development teams, helping them improve com
 - Delivered solutions for tech, education, and SaaS products with a focus on scalability and growth.
 
 I didn't just 'make screens.' I influenced direction.
-
-**[Lee esta página en español](https://github-com.translate.goog/nemgf?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)**
 
 <h2>Languages:</h2>
 
