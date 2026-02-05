@@ -10,12 +10,11 @@
 
 **[Download Resume](https://www.nemgf.com/resume/)**
 
-💡 Hello, I'm Fer! I began as a Graphic Designer, learned to build in Web Design, and now craft user experiences as a Product Designer. I decode what people truly need and build interfaces that make their day easier.
+💡 Hello, I'm Fer! Product Designer with 2+ years of hands-on experience in digital products, backed by 5+ years in design and web. I work at the intersection of qualitative research and UX design — from discovery to Figma prototyping → validation → documentation → and developer handoff. I’ve delivered MVPs and redesigns in fast-paced settings, prioritizing accessibility (WCAG), UI consistency, and team alignment. I also use AI tools to accelerate early prototyping and research.
 
-My approach blends design intuition with data, delivering experiences that perform as well as they look. I integrate empathy, agile collaboration, and continuous iteration to drive growth and usability.
-Passionate about emerging tech, I leverage tools like Gemini, Lovable, and Perplexity to enhance speed, decision-making, and product impact.
+My design process is rooted in evidence, iteration, and clarity — balancing speed with structure. I integrate user empathy with product metrics to ship features that are both usable and measurable. I regularly leverage tools like Gemini, Perplexity, and Lovable to accelerate research, explore edge cases, and spark creative solutions in early phases. Beyond product work, I’ve mentored junior designers and devs — helping them improve handoff, async documentation, and cross-functional clarity.
 
-I’ve also mentor junior design and development teams, helping them improve communication and teamwork. I'm a lifelong learner, love sharing knowledge and connect with people. I'm dedicated and mature, a natural born team player with a keen eye for design.
+I'm collaborative by default, transparent with blockers, and always learning from people around me.
 
 **Key Strengths:**
 
@@ -54,22 +53,20 @@ English (C1 Certificate)
 
 <h4>❤️ Soft</h4>
 
-Empathy, Leadership, Collaboration, Team spirit, Adaptability, Problem Solving, Creativity, Teamwork.
+AI-Driven Prototyping, Design Strategy, Leadership, Team spirit, Adaptability, Problem Solving, Creativity, Agile Methodologies, UX Research, AI Research Analysis, Empathy, AI Security, Product Thinking, Growth Design, Cross-functional Collaboration, Accessibility, Vibe Design, Vibe Coding, Strategic Documentation, Design Thinking.
 
 
-<h4>👩🏻‍💻 Product Management</h4>
+<h4>👩🏻‍💻 Core Competencies</h4>
 
-MVPs, OKRs, KPIs, Milestones, Value Proposition Canvas, User Stories, Roadmaps, Impact Mapping, Agile Frameworks, Prompt Engineering.
+- UX Research: usability testing, surveys, benchmarking, competitive analysis, synthesis of findings, stakeholder reporting.
+- UX / Product Design: user flows, information architecture, wireframes, high-fidelity prototypes (Figma/Lovable), design systems/UI kits, handoff.
+- Accessibility: WCAG compliance (contrast, keyboard focus, navigation, forms).
+- Technical Awareness: familiar with HTML/CSS/JS to anticipate constraints and support dev collaboration.
+- Validation & Optimization: defining success metrics, reducing friction, iterative improvement.
 
+<h4>⚙️ Tools</h4>
 
-<h4>🎨 UI/UX Design</h4>
-
-User Personas, Wireframing, Architecture Information, Usability Testing, Design Thinking, Atomic Design, Prototyping, Empathy maps, Mockups, User Journey Maps.
-
-
-<h4>⚙️ SOFTWARE</h4>
-
-Figma, Adobe XD, Optimal Workshop, Notion, Framer, WordPress, MarvelApp, Canva, Jira, Trello, Miro, Mural, OBS Studio, KDEnLive, Office, Photoshop, Slack.
+Figma, Marvel App, Google Forms, Useberry, Photoshop, Inkscape, ClickUp, Lovable, Emergent, Make, Antigravity, Perplexity, NotebookLM, ChatGPT, Gemini, Loop11, Gamma.AI.
 
 
 ---
@@ -102,6 +99,16 @@ Credential ID QYU9NDB2M8ED
 Credential ID 2c8d4221864249339a7d9b6257244aa5
 
 🔗 **[See credential here](https://app.hubspot.com/academy/achievements/2jp5w61d/en/1/fernando-vergel/growth-driven-design)**
+
+---
+
+<h4>Secure AI/ML-Driven Software Development</h4>
+
+**[The Linux Foundation](https://www.linuxfoundation.org/)** | December 2023 · No expiration date
+
+Credential ID LF 4ndfxb0dw9
+
+🔗 **[See credential here](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/0b6afb63-9f3a-49d1-b0c9-d94c026272a4-fernando-vergel-a62f5815-a91c-4a45-8728-1030f006fb97-certificate.pdf)**
 
 ---
 <h4>Scrum Fundamentals</h4>
