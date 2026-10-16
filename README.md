@@ -10,7 +10,7 @@
 
 **[Download Resume](https://www.nemgf.com/resume/)**
 
-💡 Hello, I'm Fer! Product Designer with 2+ years of hands-on experience in digital products, backed by 5+ years in design and web. I work at the intersection of qualitative research and UX design — from discovery to Figma prototyping → validation → documentation → and developer handoff. I’ve delivered MVPs and redesigns in fast-paced settings, prioritizing accessibility (WCAG), UI consistency, and team alignment. I also use AI tools to accelerate early prototyping and research.
+💡 Hello, I'm Fer! Product Designer with 3 years of hands-on experience in digital products, backed by 5+ years in design and web. I work at the intersection of qualitative research and UX design — from discovery to Figma prototyping → validation → documentation → and developer handoff. I’ve delivered MVPs and redesigns in fast-paced settings, prioritizing accessibility (WCAG), UI consistency, and team alignment. I also use AI tools to accelerate early prototyping and research.
 
 My design process is rooted in evidence, iteration, and clarity — balancing speed with structure. I integrate user empathy with product metrics to ship features that are both usable and measurable. I regularly leverage tools like Gemini, Perplexity, and Lovable to accelerate research, explore edge cases, and spark creative solutions in early phases. Beyond product work, I’ve mentored junior designers and devs — helping them improve handoff, async documentation, and cross-functional clarity.
 
